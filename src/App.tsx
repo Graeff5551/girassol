@@ -171,11 +171,11 @@ export default function App() {
                 transition={{ duration: 0.8, delay: 0.2 }}
                 className="relative"
               >
-                <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-8 border-white">
+                <div className="relative z-10 rounded-3xl overflow-hidden shadow-2xl border-8 border-white bg-white">
                   <img 
                     src={CLINIC_INFO.heroImageUrl} 
-                    alt="Criança em terapia" 
-                    className="w-full h-full object-cover aspect-[4/3]"
+                    alt="Clínica Girassol" 
+                    className="w-full h-auto block"
                     referrerPolicy="no-referrer"
                   />
                 </div>
