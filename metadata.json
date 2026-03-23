@@ -1,0 +1,5 @@
+{
+  "name": "Clínica Girassol",
+  "description": "Clínica multiprofissional de terapia infantil com foco em autismo. Atendimento humanizado e baseado em evidências em Tramandaí - RS.",
+  "requestFramePermissions": ["geolocation"]
+}
